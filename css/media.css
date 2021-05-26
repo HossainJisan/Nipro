@@ -1,0 +1,519 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*slider start*/
+    .c_in {
+    bottom: -13px;
+    left: 44%;
+    }
+    .c_c_cap {
+
+    padding: 0;
+    bottom: 5%;
+    width: 86%;
+    left: 5%;
+    right: 5%;
+    }
+    .c_c_cap h1 {
+    margin-bottom: 5px;
+    font-size: 18px;
+    }
+    .c_c_cap p {
+    margin-bottom: 6px;
+    font-size: 9px;
+    }
+    .c_c_cap button {
+    height: 22px;
+    width: 88px;
+    }
+    .c_c_cap button a {
+    font-size: 7px;
+    }
+    .c_prev{
+    background-image: none !important;
+    right: 0;
+    }
+    .c_next {
+    background-image: none !important;
+    right: 0;
+   }
+	/*slider end*/
+
+	/*service satrt*/
+	.s_top {
+    margin-bottom: 3px;
+    height: 28px;
+    }
+    .s_h1 {
+    font-size: 23px;
+    }
+    .service_text {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 22px;
+    }
+    .single_service {
+    margin-top: 29px;
+    }
+    .s_s_p {
+    margin-bottom: 20px;  
+    }
+    .c_margin {
+    margin-bottom: 14px;
+    }
+ 	/*service end*/
+
+ 	/*About US start*/
+ 	.a_img {
+    margin-top: -38px;
+    }
+ 	.c_img {
+    width: 298px;
+    }
+    .h1_text {
+    margin-bottom: 15px;
+    margin-top: 10px;
+    text-align: center;
+    }
+    .a_p_text {
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 8px;
+    line-height: 21px;
+    }
+    .c_btn {
+    margin-left: 28%;
+    height: 40px;
+    width: 130px;
+    margin-top: 12px;
+    }
+    .c_btn a ul li {
+    font-size: 11px;
+    }
+ 	/*About US end*/
+ 	/*Why Choose Nipro Start*/
+ 	.w_heading {
+    margin-bottom: 22px;
+    }
+    .w_hr {
+    height: 2px !important;
+    width: 296px;
+    }
+ 	/*Why Choose Nipro End*/
+ 	/*Best Pricing start*/
+    .pricing_wrap {
+    margin-top: 56px;
+    text-align: center;
+    }
+    .c_p_mar_top {
+    margin-bottom: 15px;
+    }
+    .c_p_m {
+    margin-top: 15px;
+    }
+    .p_btn {
+    margin-bottom: 30px;
+    height: 46px;
+    width: 118px;
+    }
+  /*Best Pricing end*/
+  /*Buy New start*/
+    .buy_h1 h1 {
+    font-size: 15px;
+    }
+  .buy_btn {
+    margin-left: 75px;
+    margin-top: -16px;
+    width: 120px;
+    height: 41px;
+    }
+    .buy_btn a ul li {
+    font-size: 11px;
+   }
+  /*Buy New end*/
+	
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*heder start*/
+	.l_top {
+    display: none;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: -8px;
+}
+	.menu ul li a {
+    padding: 5px 0 !important;
+}
+    .d_search[data-bs-popper] {
+    left: 0;
+}
+	/*heder end*/
+	/*slider start*/
+	.c_in {
+    bottom: -13px;
+    left: -68%;
+    }
+    .c_c_cap {
+    padding: 0;
+    bottom: 13%;
+    width: 70%;
+    /*left: 29px;*/
+    }
+    .c_c_cap h1 {
+    margin-bottom: 8px;
+    font-size: 22px;
+    }
+    .c_c_cap p {
+    margin-bottom: 15px;
+    font-size: 12px;
+    }
+    .c_c_cap button {
+    height: 34px;
+    width: 132px;
+    }
+    .c_c_cap button a {
+    font-size: 11px;
+    font-weight: 600;
+    }
+	/*slider end*/
+	/*service start*/
+	.s_h1 {
+    margin-top: -24px;
+    font-size: 28px;
+    }
+    .service_text {
+    margin-top: 20px;
+    font-size: 15px;
+    }
+    .single_service {
+    margin-top: 36px;
+    }
+    .s_s_p {
+    font-size: 15px;
+    margin-bottom: 21px;
+    }
+    .c_margin {
+    margin-bottom: 15px;
+    }
+
+	/*service end*/
+
+	/*about US start*/
+	.c_img {
+    width: 100%;
+    height: 300px;
+    margin-top: -34px;
+    }
+    .a_wrapper {
+    margin-top: 33px;
+    }
+    .h1_text {
+    margin-bottom: 0;
+    text-align: center;
+    }
+    .a_p_text {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    text-align: center;
+    line-height: 23px;
+    font-size: 15px;
+    }
+    .c_btn {
+    height: 38px;
+    width: 129px;
+    margin-top: 15px;
+    margin-left: 39%;
+    }
+    .c_btn a ul li {
+    font-size: 13px;
+    }
+    .c_btn a ul li{
+	font-size: 11px;
+   }
+
+  /*about US end*/
+  /*Why chosse nipro start*/
+    .w_heading {
+    margin-bottom: 48px;
+    }
+    .w_hr {
+    height: 2px !important;
+    width: 238px;
+    }
+  /*Why chosse nipro end*/
+  /*Best Pricing start*/
+  .pricing_wrap {
+    margin-top: 56px;
+    text-align: center;
+    }
+  /*Best Pricing end*/
+  /*Buy New Start*/
+  .buy_h1 h1 {
+    font-size: 16px;
+    margin: 40px 113px;
+    }
+    .buy_btn {
+    margin-left: 211px;
+    margin-top: -11px;
+    margin-bottom: 25px;
+    width: 111px;
+    height: 40px;
+    }
+    .buy_btn a ul li {
+    font-size: 11px;
+    }
+  /*Buy New End*/
+	
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*heder start*/
+	.menu ul li a {
+    padding: 5px 0 !important;
+}
+    .d_search[data-bs-popper] {
+    left: 0;
+}
+	/*heder end*/
+	/*slider start*/
+	.c_in {
+    bottom: -13px;
+    left: -71%;
+    }
+	.c_c_cap {
+    padding: 0;
+    bottom: 22%;
+    /*left: 44px;*/
+    width: 70%;
+    }
+    .c_c_cap h1 {
+    margin-bottom: 14px;
+    font-size: 30px;
+    }
+    .c_c_cap p {
+    margin-bottom: 20px;
+    font-size: 13px;
+    }
+    .c_c_cap button {
+    height: 35px;
+    width: 134px;
+    }
+    .c_c_cap button a {
+    font-size: 12px;
+    font-weight: 600;
+    }
+	/*slider end*/
+	/*service start*/
+	.single_service {
+    margin-top: 15px;
+    }
+    .s_h1 {
+    margin-top: -21px;
+    }
+    .service_text {
+    margin-top: 12px;
+    }
+    .s_s_hr {
+    margin: 10px auto;
+    }
+    .s_s_p {
+    margin-bottom: 20px;
+    }
+    .c_margin {
+    margin-bottom: 18px;
+    }
+	/*service end*/
+
+	/*about us start*/
+	.c_img {
+    width: 340px;
+    height: 427px;
+    }
+    .h1_text {
+    margin-bottom: 12px;
+    margin-top: 0;
+    }
+    .service_text {
+    line-height: 22px;
+    }
+    .c_btn {
+    height: 40px;
+    width: 130px;
+    margin-top: 4px;
+    }
+    .c_btn a ul li {
+    font-size: 11px;
+    }
+
+	/*about us end*/
+	/*WHy choose nipro start*/
+	.w_heading {
+    margin-bottom: 50px;
+    }
+	.w_hr {
+    height: 2px !important;
+    width: 307px;
+    }
+	/*WHy choose nipro end*/
+	/*Best Pricing start*/
+	.pricing_wrap {
+    margin-top: 60px;
+    text-align: center;
+    padding: 0px 74px;
+    border: 1px solid #8E8E8E;
+    position: relative;
+    }
+	/*Best Pricing end*/
+	/*Buy New start*/
+	.buy_h1 h1 {
+    font-size: 15px;
+    }
+    .buy_btn {
+    margin-left: 144px;
+    height: 40px;
+    width: 130px;
+    }
+    .buy_btn a ul li {
+    font-size: 11px;
+    }
+	/*Buy New end*/
+	
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*slider start*/
+	.c_in {
+    bottom: -13px;
+    left: -75%;
+    }
+	.c_c_cap {
+    bottom: 30%;
+    /*left: 60px;*/
+    }
+	.c_c_cap h1 {
+    margin-bottom: 25px;
+    font-size: 36px;
+    }
+    .c_c_cap p {
+    margin-bottom: 30px;
+    font-size: 15px;
+    }
+    .c_c_cap button {
+    height: 41px;
+    width: 132px;
+    }
+    .c_c_cap button a {
+    font-size: 12px;
+    font-weight: 600;
+    }
+
+	/*slider end*/
+	
+/*about us start*/
+    .c_img{
+    width: 400px;
+    height: 398px;
+    }
+    .h1_text {
+    margin-bottom: 14px;
+    margin-top: -4px;
+    }
+    .service_text {
+    margin-top: 14px;
+    }
+    .c_btn {
+    margin-top: 5px;
+    }
+    .c_btn a ul li{
+	font-size: 15px;
+	font-weight: 600;
+    }    
+/*about us end*/
+/*why choose nipro start*/
+    .w_hr {
+    height: 2px;
+    width: 298px;
+    }
+
+/*why choose nipro end*/
+/*Best Pricing start*/
+    .pricing_wrap {
+    margin-top: 98px;
+    padding: 0px 27px;
+    border: 1px solid;
+    position: relative;
+    }
+    .p_btn {
+    margin-bottom: 30px;
+    height: 45px;
+    width: 151px;
+    }
+/*Best Pricing end*/
+
+/*Buy New Start*/
+    .buy_h1 h1 {
+    font-size: 16px;
+    }
+    .buy_btn {
+    margin-left: 18px;
+    }
+
+/*Buy New End*/
+
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	/*slider start*/
+	.c_c_cap {
+    bottom: 28%;
+    /*left: 75px;*/
+    }
+	.c_c_cap h1 {
+    margin-bottom: 26px;
+    font-size: 40px;
+    }
+    .c_c_cap p {
+    margin-bottom: 28px;
+    font-size: 14px;
+    }
+
+	/*slider end*/
+	
+	/*about us start*/
+	.c_btn {
+    margin-top: 1px;
+    width: 150px;
+    height: 43px;
+    }
+    .c_btn a ul li {
+    font-size: 13px;
+    }
+
+	/*about us end*/
+	/*Why Choose Nipro start*/
+	.w_heading {
+    margin-bottom: 48px;
+    }
+    .why_c_n_top {
+    margin-bottom: 15px;
+    }
+	/*Why Choose Nipro end*/
+
+	/*Buy Now start*/
+	.buy_btn {
+    width: 150px;
+    height: 43px;
+    }
+	.buy_btn a ul li {
+    font-size: 15px;
+    }
+
+}
+
+/*Extra Extra large devices (Extra Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
